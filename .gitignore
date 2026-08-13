@@ -1,0 +1,7 @@
+target/
+testdata/
+*.rocksdb/
+.idea/
+.vscode/
+*.iml
+.DS_Store

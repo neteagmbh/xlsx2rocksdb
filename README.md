@@ -1,6 +1,6 @@
 # xlsx2rocksdb
 
-[![CI](https://github.com/neteagmbh/xlsm2rocksdb/actions/workflows/ci.yml/badge.svg)](https://github.com/neteagmbh/xlsm2rocksdb/actions/workflows/ci.yml)
+[![CI](https://github.com/neteagmbh/xlsx2rocksdb/actions/workflows/ci.yml/badge.svg)](https://github.com/neteagmbh/xlsx2rocksdb/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Java 17+](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://adoptium.net/)
 
@@ -34,7 +34,7 @@ This creates the executable fat JAR `target/xlsx2rocksdb.jar`.
 
 ## Installation
 
-Download `xlsx2rocksdb.jar` and its SHA-256 checksum from the [GitHub Releases](https://github.com/neteagmbh/xlsm2rocksdb/releases) page, then verify it:
+Download `xlsx2rocksdb.jar` and its SHA-256 checksum from the [GitHub Releases](https://github.com/neteagmbh/xlsx2rocksdb/releases) page, then verify it:
 
 ```bash
 sha256sum --check xlsx2rocksdb.jar.sha256
@@ -173,4 +173,7 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the develo
 ## License
 
 This project is available under the [MIT License](LICENSE). Third-party dependencies remain subject to their respective licenses.
-# xlsm2rocksdb
+
+## Disclaimer
+
+Parts of the software and documentation are created / edited using AI tools.
