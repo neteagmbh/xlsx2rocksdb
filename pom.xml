@@ -39,7 +39,7 @@
         <poi.version>5.5.1</poi.version>
         <fastexcel.version>0.20.2</fastexcel.version>
         <rocksdb.version>10.10.1.1</rocksdb.version>
-        <jackson.version>2.20.1</jackson.version>
+        <jackson.version>2.22.2</jackson.version>
         <log4j.version>2.26.1</log4j.version>
         <junit.version>6.1.3</junit.version>
     </properties>
