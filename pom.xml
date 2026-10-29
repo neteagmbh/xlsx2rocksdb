@@ -36,7 +36,7 @@
         <maven.compiler.release>17</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <picocli.version>4.7.7</picocli.version>
-        <poi.version>5.5.1</poi.version>
+        <poi.version>6.0.0</poi.version>
         <fastexcel.version>0.20.2</fastexcel.version>
         <rocksdb.version>10.10.1.1</rocksdb.version>
         <jackson.version>2.20.1</jackson.version>
